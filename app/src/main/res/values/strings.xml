@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="EnchatedForest"></string>
+    <string name="AriaMilk">Aria Milk</string>
+    <string name="DevondaleMilk">Devondale Milk</string>
+    <string name="KindleOasis">Kindle Oasis</string>
+    <string name="Waitrose">Waitrose 早餐麦片</string>
+    <string name="Mcvitie">Mcvitie's 饼干</string>
+    <string name="FerrerRocher">Ferrero Rocher</string>
+    <string name="Maltesers">Maltesers</string>
+    <string name="Lindt">Lindt</string>
+    <string name="Borggreve">Borggreve</string>
+
+    <string name="E_price">¥5.00</string>
+    <string name="A_price">¥59.00</string>
+    <string name="D_price">¥79.00</string>
+    <string name="K_price">¥2399.00</string>
+    <string name="W_price">¥179.00</string>
+    <string name="Mc_price">¥14.90</string>
+    <string name="F_price">¥132.59</string>
+    <string name="Ma_price">¥141.43</string>
+    <string name="L_price">¥139.43</string>
+    <string name="B_price">¥28.90</string>
+
+    <string name="E_info">作者 Johanna Basford</string>
+    <string name="A_info">产地 德国</string>
+    <string name="D_info">产地 澳大利亚</string>
+    <string name="K_info">版本 8GB</string>
+    <string name="W_info">重量 2Kg</string>
+    <string name="Mc_info">产地 英国</string>
+    <string name="F_info">重量 300g</string>
+    <string name="Ma_info">重量 118g</string>
+    <string name="L_info">重量 249g</string>
+    <string name="B_info">重量 640g</string>
+
+    <string name="moreInformation">更多产品信息</string>
+    <string name="buy">一键下单</string>
+    <string name="share">分享商品</string>
+    <string name="notInterested">不感兴趣</string>
+    <string name="moreDiscountInformation">查看更多商品促销信息</string>
+    <string name="removeProduct">移除商品</string>
+    <string name="removeProductInfo">从购物车移除</string>
+    <string name="Sure">确认</string>
+    <string name="cancel">取消</string>
+    <string name="shoppingCar">购物车</string>
+    <string name="price">价格</string>
+    <string name="weight">重量</string>
+</resources>
